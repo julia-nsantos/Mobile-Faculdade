@@ -2,7 +2,7 @@
 seguinte nome “firstName(): String” que irá retornar uma
 String com o primeiro nome de uma pessoa.*/
 
-package org.example
+package org.example.exercicios
 
 
 fun String.firstName(): String {

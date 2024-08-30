@@ -2,7 +2,7 @@
 seguinte nome “lastName(): String” que irá retornar uma
 String com o último nome de uma pessoa.*/
 
-package org.example
+package org.example.exercicios
 
 fun String.lastName(): String {
     return this.split(" ").last()

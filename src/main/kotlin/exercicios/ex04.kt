@@ -5,7 +5,7 @@ parâmetro uma lista da classe “User” e retorne uma
 outra lista com os elementos ordenados por nome em
 ordem alfabética.*/
 
-package org.example
+package org.example.exercicios
 
 data class User(val id:Int, val name:String)
 

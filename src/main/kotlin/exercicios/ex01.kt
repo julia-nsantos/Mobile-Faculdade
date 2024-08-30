@@ -5,10 +5,9 @@ retornar uma String com um Double convertido em valor
 monetário.
 */
 
-package org.example
+package org.example.exercicios
 
 import java.text.NumberFormat
-import java.util.*
 
 
 fun Double.toCurrencyFormat(): String{
